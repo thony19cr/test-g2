@@ -1,0 +1,3 @@
+Lenguaje multiplataforma: Python
+Está basado en POO
+Basado en diferentes paradigamas de programación
