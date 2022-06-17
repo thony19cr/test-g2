@@ -26,3 +26,5 @@ edad2 = int(input("Personal 2 Ingrese su edad: "))
 
 suma = edad1+edad2
 print("La suma de las edades de los dos personales es: {}".format(suma))
+
+print("Edad 1", edad1)
